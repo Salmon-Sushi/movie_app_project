@@ -42,6 +42,14 @@
   display: flex;
   flex-wrap: wrap;
   margin: 5px 0px;
+  color: gray;
+  font-weight: 400;
+}
+
+.Genere {
+  color: black;
+  font-weight: 500;
+  margin-bottom: 3px;
 }
 
 .movie__genres li,
